@@ -1,4 +1,4 @@
 <?php
 
-echo "Hello Azure!\nHappy New Year!!";
+echo nl2br("Hello Azure!\nHappy New Year!!");
 ?>
