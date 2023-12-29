@@ -1,4 +1,4 @@
 <?php
 
-echo "Hello World!\nHappy New Year!!";
+echo "Hello Azure!\nHappy New Year!!";
 ?>
